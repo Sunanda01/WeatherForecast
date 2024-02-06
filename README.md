@@ -1,5 +1,5 @@
 # WEATHER FORECAST
-## It is a simple weather forecasting website. We can enter any city name in the search box to get the *temperature, humidity, wind pressure per hour*.
+### It is a simple weather forecasting website. We can enter any city name in the search box to get the *temperature, humidity, wind pressure per hour*.
 In case of wrong city name, it will display Invalid City Name.
 - It is a fully responsive project
 - Link is mentioned in about section.
